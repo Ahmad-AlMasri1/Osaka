@@ -6,3 +6,11 @@
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
     color:var(--primaryColor);
 }
+.hero{
+    background-image:url(./../image/bg.jpg);
+    background-size: cover;
+    font-family: var(--mainFont);
+}
+.hero a{
+    color:var(--primaryColor);
+}
