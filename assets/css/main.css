@@ -39,3 +39,19 @@
 .nav-tabs{
     border: none;
 }
+.w_85{
+    width: 85px;
+}
+.test_img{
+    border: 2px solid #fff;
+
+}
+.border_bottom{
+    border-bottom: solid 1px var(--primaryColor);
+    width: 50px;
+    
+}
+.carousel-indicators [data-bs-target]{
+    width: 5px;
+    height: 5px;
+}
